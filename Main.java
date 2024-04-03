@@ -3,7 +3,7 @@ package CodeLab;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class Inventory {
+public class Main{
     public static void main(String[] args) {
         HashMap<String, Integer> inventori = new HashMap<>();
 
